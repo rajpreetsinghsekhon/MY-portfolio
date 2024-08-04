@@ -15,7 +15,7 @@
    
    <hr>
    <br>
-    <img src="https://avatars.githubusercontent.com/u/175324509?s=400&u=7f873f6e42fe052ab7600fee588f93f21d0b04f6&v=4">height=300 alt="Rajpreet singh">
+    <img src="https://avatars.githubusercontent.com/u/175324509?s=400&u=7f873f6e42fe052ab7600fee588f93f21d0b04f6&v=4"height=300 alt="Rajpreet singh">
     <br>
      <br>
 
